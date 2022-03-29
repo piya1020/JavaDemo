@@ -1,0 +1,9 @@
+package com.samples.oop;
+
+public class Demo1 {
+	public static void main(String[] args) 
+	{
+		car hondacity=new car();	
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.teksystems.myproject;
+
+public class DemoWhile {
+	public static void main(String[] args) {
+		int count=0;
+		
+		while(count!=5) 
+		{
+			System.out.println("Count value"+count);
+			count++;
+		}
+	}
+}

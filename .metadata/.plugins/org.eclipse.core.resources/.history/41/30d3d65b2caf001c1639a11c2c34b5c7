@@ -1,0 +1,14 @@
+package com.samples.oop;
+
+public class Demo1 {
+	public static void main(String[] args) 
+	{
+		car hondacity=new car();	
+		hondacity.color="Black";
+		hondacity.fueltype="Petrol";
+		hondacity.geartype ='5';
+		hondacity.noofwheel='4';
+		
+	}
+
+}

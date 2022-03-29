@@ -1,0 +1,21 @@
+package com.teksystems.myproject;
+
+public class Strings {
+	public static void main(String args[])
+	{
+		String s1="Hello";
+		//System.out.println(s1);
+		String s2= s1+ "World";
+		String s3="45";
+		int intx=Integer.parseInt(s3);
+		int x=10;
+		s2=s1+x;
+		System.out.println(s2);
+		
+		double doublenumber=170.7d;
+		String mydouble="Hello"+doublenumber;
+		System.out.println("mystring double="+mydouble);
+		
+	}
+
+}

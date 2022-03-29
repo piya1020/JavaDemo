@@ -1,0 +1,19 @@
+package com.teksystems.myproject;
+
+public class Accout {
+	private String number;
+	private double balance;
+	private String customername;
+	private String customerEmail;
+	private String phonenumber;
+	
+	public Accout(String number, double balance, String customername, String customerEmail, String phonenumber) {
+		super();
+		this.number = number;
+		this.balance = balance;
+		this.customername = customername;
+		this.customerEmail = customerEmail;
+		this.phonenumber = phonenumber;
+	}
+
+}

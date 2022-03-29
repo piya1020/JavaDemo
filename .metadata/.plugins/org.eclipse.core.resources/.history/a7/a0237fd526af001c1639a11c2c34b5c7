@@ -1,0 +1,13 @@
+package com.teksystems.myproject;
+
+public class DemoLoop {
+	public static void main(String[] args) {
+		
+	}
+	private static double calculateIntreset(double amount,double intresetrate)
+	{
+	
+		return (amount * (intresetrate/ 100));
+	}
+
+}

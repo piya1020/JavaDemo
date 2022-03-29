@@ -1,0 +1,10 @@
+package com.samples.oop;
+
+public class car {
+	
+	String fueltype;
+	int noofwheel;
+	int geartype;
+	String color;
+
+}

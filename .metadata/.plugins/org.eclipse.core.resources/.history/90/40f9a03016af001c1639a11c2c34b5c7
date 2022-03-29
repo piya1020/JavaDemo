@@ -1,0 +1,14 @@
+package com.teksystems.myproject;
+
+public class Strings {
+	public static void main(String args[])
+	{
+		String s1="Hello";
+		//System.out.println(s1);
+		String s2= s1+ "World";
+		String s3="45";
+		int x=Integer.parseInt(s3);
+		
+	}
+
+}

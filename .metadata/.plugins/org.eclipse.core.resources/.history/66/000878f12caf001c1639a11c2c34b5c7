@@ -1,0 +1,15 @@
+package com.samples.oop;
+
+public class Demo1 {
+	public static void main(String[] args) 
+	{
+		car hondacity=new car();	
+		hondacity.setColor("Black");
+		hondacity.setFueltype("Petrol");
+		hondacity.setGeartype(5);
+		hondacity.setNoofwheel(4);
+		System.out.println(hondacity);
+		
+	}
+
+}

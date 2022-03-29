@@ -1,0 +1,10 @@
+package com.teksystems.myproject;
+
+public class Accout {
+	private String number;
+	private double balance;
+	private String customername;
+	private String customerEmail;
+	private String phonenumber;
+
+}
