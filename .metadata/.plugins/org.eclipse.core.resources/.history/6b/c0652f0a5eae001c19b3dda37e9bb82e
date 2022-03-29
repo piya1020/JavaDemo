@@ -1,0 +1,12 @@
+package com.teksystems.myproject;
+
+public class Demo3 {
+	public static void main(String args[])
+	{
+		float minfloat= Float.MIN_VALUE;
+		float maxfloat= Float.MAX_VALUE;
+		
+		System.out.println(minfloat);
+		System.out.println(maxfloat);
+	}
+}

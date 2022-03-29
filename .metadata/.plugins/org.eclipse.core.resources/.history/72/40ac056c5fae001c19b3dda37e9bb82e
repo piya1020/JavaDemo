@@ -1,0 +1,9 @@
+package com.teksystems.myproject;
+
+public class Demo4 {
+	public static void main(String args[])
+	{
+		char mychar = 'D';
+		System.out.println(mychar);
+	}
+}
