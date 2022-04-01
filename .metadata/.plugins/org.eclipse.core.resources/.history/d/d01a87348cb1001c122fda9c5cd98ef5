@@ -1,0 +1,20 @@
+package com.samples.set;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class testLinkedHashSet
+{
+	//Both HashSet and LinkedHashSet provides uniqueness
+	//insertion order
+	public static void main(String[] args) 
+	{
+		Set<String> s=new HashSet<String>();
+		s.add("Sneha");
+		s.add("Aishi");
+		s.add("Nisha");
+		s.add("Priyanka");
+		System.out.println(s);
+	}
+
+}

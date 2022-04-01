@@ -19,7 +19,7 @@ public class testArrayList3 {
 		 for(Integer i: intlist)
 			 System.out.println(i);
 		 
-		
+		 Object[] newobj=intlist.
 		 
 	}
 
