@@ -1,0 +1,24 @@
+package com.teksystem.oop2;
+
+public class Dog extends Animal
+{
+	private int eye;
+	private int leg;
+	private int tail;
+	
+	
+	public Dog(String name, int size, int weight, int eye, int leg, int tail) {
+		super(name, size, weight);
+		this.eye = eye;
+		this.leg = leg;
+		this.tail = tail;
+	}
+
+
+	/*public Dog(String name,int size,int weight)
+	{
+		super(name,size,weight);
+	}*/
+}
+
+

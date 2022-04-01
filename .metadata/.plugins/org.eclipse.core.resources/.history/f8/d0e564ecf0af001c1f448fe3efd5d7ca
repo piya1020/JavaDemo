@@ -1,0 +1,7 @@
+package com.samples.javademo.oop3;
+
+public class Box {
+	private String model;
+	private String manufacturer;
+	private int powersupply;
+}

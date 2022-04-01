@@ -1,0 +1,18 @@
+package com.samples.javademos.oo5;
+
+public class testPolymorphism {
+	public static void main(String[] args) {
+		for(int i=1 ; i<10 ; i++)
+		{
+			Movie myMovie = randomMovie();
+			
+			System.out.println("Movie # " + i + " : " + myMovie.getName() + "\n" +"Plot:" + myMovie.plot());
+		}
+	}
+
+	private static Movie randomMovie() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,23 @@
+package com.samples.aaray;
+
+import java.util.Scanner;
+
+public class ArrayProgram {
+	
+	private static Scanner sc=new Scanner(System.in);
+	
+	public static void main(String[] args) {
+		
+		int[] myInteger= getInteger(5);
+		//printMyArray(myInteger);
+		//int avg=getAverage(myInteger);
+		//System.out.println(" Average = "+avg);
+		
+	}
+	private static int[] getInteger(int number)
+	{
+		System.out.println(" Enter " + number +" Integer Value ");
+		int[] values= new int[number];
+		return values;
+	}
+}

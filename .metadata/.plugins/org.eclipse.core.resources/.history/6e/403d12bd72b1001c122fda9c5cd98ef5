@@ -1,0 +1,11 @@
+package com.samples.oop7.abstractclass;
+
+public class testAbstraction {
+	public static void main(String[] args) {
+		public Dog(String name)
+		{
+			super(name);
+		}
+	}
+
+}

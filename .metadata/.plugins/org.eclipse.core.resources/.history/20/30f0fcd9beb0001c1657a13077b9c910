@@ -1,0 +1,12 @@
+package com.samples.aaray;
+
+import java.util.Arrays;
+
+public class ReverseArray {
+	
+	public static void main(String[] args) {
+		int[] arr1= {1,4,5,33,44,55,78,9,58};
+		System.out.println(Arrays.toString(arr1));
+	}
+
+}

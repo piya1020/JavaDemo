@@ -1,0 +1,13 @@
+package com.samples.oop7.abstractclass;
+
+public class Dog {
+	public Dog(String name)
+	{
+		super(name);
+	}
+	public void eat()
+	{
+		
+	}
+
+}
